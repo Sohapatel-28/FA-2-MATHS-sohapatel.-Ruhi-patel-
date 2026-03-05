@@ -32,7 +32,8 @@ Allows users to select cryptocurrency type, time duration, simulation count, and
 
 📌 Risk Interpretation Dashboard
 Summarizes volatility levels and provides a clear understanding of whether the selected asset shows low, moderate, or high risk behavior.
-
+STREAMLIT LINK 🔗 
+https://idai104-2505467--sohapatel-sbtmhvryuftc5ylruu5hod.streamlit.app/
 💻 Professional FinTech Interface
 Designed with a structured and clean layout for smooth navigation and enhanced user experience.
 
